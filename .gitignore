@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# API Keys & Credentials
+*.pickle
+client_secrets.json
+token.pickle
+config.py
+
+# Output files
+/sdcard/
+*.mp4
+*.mp3
+*.jpg
+*.png
+*.wav
+
+# Temporary files
+*.tmp
+*.log
+concat_list.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Private keys
+*.key
+*.pem
